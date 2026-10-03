@@ -1,2 +1,2 @@
 # Задание 1
-print("Hello, world!")
+print("Task 1")
