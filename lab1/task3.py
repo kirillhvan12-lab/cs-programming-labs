@@ -1,3 +1,6 @@
-# Задание 3
-for i in range(1, 6):
-    print(i, "в квадрате =", i ** 2)
+dlina=float(input())
+shir=float(input())
+plosh=dlina*shir
+per=(dlina+shir)*2
+print(f'Площадь: {plosh}')
+print(f'Периметр: {per}')
